@@ -4,7 +4,7 @@ This repository contains various Data Informatics projects and related files, in
 
 ## Projects & Files Included
 
-- **Cpi360Milestone2.zip**: Archive containing milestone 2 files.
+
 - **Power BI Visualizations**:
   - `STUFAN.pbix`
   - `visualization housing.pbix`
